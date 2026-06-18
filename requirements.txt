@@ -1,6 +1,6 @@
 fastapi[standard]==0.115.6
-Markdown==3.7
+Markdown==3.8.1
 pydantic==2.10.3
 pydantic_settings==2.6.1
 pyDes==2.0.1
-Requests==2.32.3
+Requests==2.33.0
